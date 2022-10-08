@@ -1,24 +1,8 @@
-<style>
-    /* Geral */
-    p{
-        text-align: justify;
-    }
-
-    h2{
-        font-size: 1.25rem;
-    }
-
-    /* Main */
-    main > nav{
-        font-size: 1.25rem;
-    }
-</style>
-
 <hr>
 
 <main>
     <h1 align="center">Projeto Alura Plus</h1>
-    <nav align="center">
+    <nav align="center" style="font-size: 1.25rem;">
         <a href="#sobre">Sobre</a> •
         <a href="#tabela-de-conteudo">Tabela de Conteúdo</a> •
         <a href="#tecnologias">Tecnologias</a> •
@@ -31,13 +15,13 @@
 <img src="Alura-Plus.gif" title="Gif mostrando o site">
 
 <section id="sobre">
-    <h2>Sobre</h2>
-    <p>Os estudos <b>deste repositório</b> foram feitos de acordo com o curso <a href="https://cursos.alura.com.br/course/html-css-praticando-html-css">HTML e CSS: praticando HTML/CSS</a> com <b>auxílio</b> da instrutora <b>Mônica Mazzochi Hillman</b>.</p>
-    <p>Com isso, quero enfatizar que o <b>conteúdo este repositório foi um estudo</b>! Não o criei sozinho, mas todo o conhecimento fornecido vou absorvido.</p>
+    <h2 style="font-size: 1.25rem;">Sobre</h2>
+    <p style="text-align: justify;">Os estudos <b>deste repositório</b> foram feitos de acordo com o curso <a href="https://cursos.alura.com.br/course/html-css-praticando-html-css">HTML e CSS: praticando HTML/CSS</a> com <b>auxílio</b> da instrutora <b>Mônica Mazzochi Hillman</b>.</p>
+    <p style="text-align: justify;">Com isso, quero enfatizar que o <b>conteúdo este repositório foi um estudo</b>! Não o criei sozinho, mas todo o conhecimento fornecido vou absorvido.</p>
 </section>
 
 <section id="tabela-de-conteudo">
-    <h2>Tabela de Conteúdo</h2>
+    <h2 style="font-size: 1.25rem;">Tabela de Conteúdo</h2>
     <ul>
         <li>Criar a pasta do projeto e os arquivos HTML e CSS no seu computador, assim como abrir a pasta no editor de código;</li>
         <li>Escrever o código base do arquivo HTML, através das tags que compõem a estrutura básica desse tipo de arquivo;</li>
@@ -80,7 +64,7 @@
 </section>
 
 <section id="tecnologias">
-    <h2>Tecnologias</h2>
+    <h2 style="font-size: 1.25rem;">Tecnologias</h2>
     <ul>
         <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a>;</li>
         <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>.</li>
@@ -88,7 +72,7 @@
 </section>
 
 <section id="autor">
-    <h2>Autor</h2>
+    <h2 style="font-size: 1.25rem;">Autor</h2>
     <img src="foto.jpg" width="170">
-    <p><i>Emanuel Marcos (E.Barboza)<i></p>
+    <p style="text-align: justify;"><i>Emanuel Marcos (E.Barboza)<i></p>
 </section>
