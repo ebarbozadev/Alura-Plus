@@ -2,7 +2,7 @@
 
 <main>
     <h1 align="center">Projeto Alura Plus</h1>
-    <p style="font-size: 1.25rem; text-align: center;">
+    <p align="center" style="font-size: 1.25rem;">
         <a href="#sobre">Sobre</a> •
         <a href="#tabela-de-conteudo">Tabela de Conteúdo</a> •
         <a href="#tecnologias">Tecnologias</a> •
