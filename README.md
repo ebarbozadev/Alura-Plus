@@ -2,28 +2,13 @@
 
 <main>
     <h1 align="center">Projeto Alura Plus</h1>
-    <p style="font-size: 1.25rem; text-align: center;">
+    <nav align="center" style="font-size: 1.25rem;">
         <a href="#sobre">Sobre</a> •
         <a href="#tabela-de-conteudo">Tabela de Conteúdo</a> •
         <a href="#tecnologias">Tecnologias</a> •
         <a href="#autor">Autor</a>
-    </p>
-    <p align="center">
-     <a href="#features">Features</a> •
-     <a href="#pré-requisitos">Pré Requisitos</a> •
-     <a href="#rodando-o-mobile">Rodando a aplicação</a> •
-     <a href="#tecnologias">Tecnologias</a> •
-     <a href="#autor">Autor</a>
-    </p>
+    </nav>
 </main>
-
-<p align="center">
- <a href="#features">Features</a> •
- <a href="#pré-requisitos">Pré Requisitos</a> •
- <a href="#rodando-o-mobile">Rodando a aplicação</a> •
- <a href="#tecnologias">Tecnologias</a> •
- <a href="#autor">Autor</a>
-</p>
 
 <hr>
 
