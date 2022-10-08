@@ -6,6 +6,7 @@
         <a href="#sobre">Sobre</a> •
         <a href="#tabela-de-conteudo">Tabela de Conteúdo</a> •
         <a href="#tecnologias">Tecnologias</a> •
+        <a href="#certificado">Certificado</a> •
         <a href="#autor">Autor</a>
     </p>
 </main>
@@ -71,6 +72,12 @@
         <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a>;</li>
         <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>.</li>
     </ul>
+</section>
+
+<section id="certificado">
+    <h2 style="font-size: 1.25rem;">Certificado</h2>
+    <p style="text-align: justify;">Veja o certificado que obtive no curso! Ou veja online <a href="https://cursos.alura.com.br/certificate/ebarbozadev/css-dispondo-elementos-flexbox-grid">aqui</a>.</p>
+    <img src="Certificado de Conclusão HTML e CSS Praticando HTML-CSS.jpg">
 </section>
 
 <section id="autor">
