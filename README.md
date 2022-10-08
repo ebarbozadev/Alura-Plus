@@ -8,7 +8,22 @@
         <a href="#tecnologias">Tecnologias</a> •
         <a href="#autor">Autor</a>
     </p>
+    <p align="center">
+     <a href="#features">Features</a> •
+     <a href="#pré-requisitos">Pré Requisitos</a> •
+     <a href="#rodando-o-mobile">Rodando a aplicação</a> •
+     <a href="#tecnologias">Tecnologias</a> •
+     <a href="#autor">Autor</a>
+    </p>
 </main>
+
+<p align="center">
+ <a href="#features">Features</a> •
+ <a href="#pré-requisitos">Pré Requisitos</a> •
+ <a href="#rodando-o-mobile">Rodando a aplicação</a> •
+ <a href="#tecnologias">Tecnologias</a> •
+ <a href="#autor">Autor</a>
+</p>
 
 <hr>
 
