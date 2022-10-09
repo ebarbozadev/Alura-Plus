@@ -25,14 +25,14 @@
 
 <section id="tabela-de-conteudo">
     <h2 style="font-size: 1.25rem;">Tabela de Conteúdo</h2>
-    <ul style="text-align: justify;">
+    <ul style="text-align: justify;" align="justify">
         <li>Criar a pasta do projeto e os arquivos HTML e CSS no seu computador, assim como abrir a pasta no editor de código;</li>
         <li>Escrever o código base do arquivo HTML, através das tags que compõem a estrutura básica desse tipo de arquivo;</li>
         <li>Preencher os dados que são inseridos dentro da tag <code>head</code> que auxiliam o navegador a entender a codificação de caracteres, o tamanho do dispositivo e a conexão de arquivos externos;</li>
         <li>Estabelecer variáveis CSS e usar as mesmas, que ajudam a compreender melhor as cores por possuírem agora um nome ao invés do código hexadecimal;</li>
         <li>Instalar a extensão Live Server para conseguir ver as alterações no código automaticamente ao salvar o arquivo;</li>
         <li>Alterar a cor de fundo da página com <code>background-color</code> e da escrita com <code>color</code>;</li>
-        <li>Inserir imagem de fundo com <code>background-image</code> e com a tag <code>img</code> assim como compreender suas diferenças de utilização.</li>
+        <li>Inserir imagem de fundo com <code>background-image</code> e com a tag <code>img</code> assim como compreender suas diferenças de utilização;</li>
         <li>Criar botões na página e como escolher qual elemento para isso;</li>
         <li>Como nomear classes com o padrão BEM (block element modifier);</li>
         <li>A diferença entre <code>button</code> e <code>a</code>;</li>
