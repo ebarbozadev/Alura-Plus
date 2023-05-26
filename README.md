@@ -75,11 +75,5 @@
 
 <section id="certificado">
     <h2 style="font-size: 1.25rem;">Certificado</h2>
-    <p style="text-align: justify;">Veja o certificado que obtive no curso! Ou veja online <a href="https://cursos.alura.com.br/certificate/ebarbozadev/css-dispondo-elementos-flexbox-grid">aqui</a>.</p>
-</section>
-
-<section id="autor">
-    <h2 style="font-size: 1.25rem;">Autor</h2>
-    <img src="foto.jpg" width="170">
-    <p style="text-align: justify;"><i>Emanuel Marcos (E.Barboza)<i></p>
+    <p style="text-align: justify;">Veja o certificado que obtive no curso! Ou veja online <a href="https://cursos.alura.com.br/certificate/b2eaef25-f358-499c-aa33-42a5836e549e">aqui</a>.</p>
 </section>
